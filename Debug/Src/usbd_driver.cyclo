@@ -1,0 +1,4 @@
+../Src/usbd_driver.c:3:6:initialize_usb_pins	1
+../Src/usbd_driver.c:21:6:initialize_core	1
+../Src/usbd_driver.c:58:6:connect	1
+../Src/usbd_driver.c:69:6:disconnect	1
