@@ -1,0 +1,9 @@
+Debug/
+.metadata/
+.settings/
+Startup/
+.cproject/
+.project/
+.STM32F429ZITX_FLASH.ld/
+.STM32F429ZITX_RAM.ld/
+Inc/CMSIS/
